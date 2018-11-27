@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CalorieTracker</string>
+    <string name="calories_in_string">-1280kcal</string>
+    <string name="calories_out_string">+1700kcal</string>
+    <string name="title_activity_calorie_intake">CalorieIntake</string>
+</resources>
